@@ -14,3 +14,17 @@ second push
 git add .
 git commit -m "second push"
 git push
+
+branch creation
+--------------
+git branch main
+git status
+git checkout main
+
+clone
+-----
+git clone "url"
+
+pull
+----
+git pull "url"
